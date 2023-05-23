@@ -1,0 +1,7 @@
+.text_with_picture {
+  background-image: url('https://images.pexels.com/photos/1230397/pexels-photo-1230397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white; /* Couleur du texte pour le contraste */
+  padding: 20px; /* Espacement pour rendre le texte plus lisible */
+}
